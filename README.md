@@ -37,9 +37,7 @@ pip install scikit-learn pandas numpy matplotlib seaborn
 
 ##  Visualization
 
-Visualizing the data helps in understanding the distribution and relationships between different features. Here's an example of a pair plot:
-
-![Pair Plot](pair_plot.png)
+Visualizing the data helps in understanding the distribution and relationships between different features. 
 
 ##  Usage
 
@@ -50,7 +48,7 @@ Visualizing the data helps in understanding the distribution and relationships b
 5. **Evaluate Models:** Measure the performance of each model using metrics like accuracy, precision, recall, and F1-score.
 6. **Visualize Results:** Plot confusion matrices and decision boundaries.
 
-## 🎯 Results
+##  Results
 
 The performance of each classifier is evaluated and compared. Typically, models are assessed using accuracy, precision, recall, and F1-score. The results are visualized using confusion matrices and other plots.
 ```
