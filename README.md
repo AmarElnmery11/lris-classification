@@ -1,8 +1,8 @@
-# 🌸 Iris Classification Project 🌸
+#  Iris Classification Project 
 
 Welcome to the **Iris Classification Project**! This project demonstrates the application of machine learning algorithms to classify Iris flowers into three species based on their physical characteristics. 🌼
 
-## 📚 Dataset
+##  Dataset
 
 The Iris dataset is a classic dataset in the field of machine learning and statistics. It consists of 150 samples, each with four features:
 
@@ -17,7 +17,6 @@ Each sample is classified into one of three species:
 - **Versicolor**
 - **Virginica**
 
-## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -36,13 +35,13 @@ You can install these dependencies using pip:
 pip install scikit-learn pandas numpy matplotlib seaborn
 ```
 
-## 📊 Visualization
+##  Visualization
 
 Visualizing the data helps in understanding the distribution and relationships between different features. Here's an example of a pair plot:
 
 ![Pair Plot](pair_plot.png)
 
-## 💻 Usage
+##  Usage
 
 1. **Load the Dataset:** The Iris dataset can be loaded directly from scikit-learn.
 2. **Preprocess the Data:** Encode categorical variables if necessary.
